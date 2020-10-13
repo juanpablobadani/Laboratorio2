@@ -1,0 +1,13 @@
+C:\Users\DELL09\source\repos\Bicicletas\Bicicletas\bin\Debug\netcoreapp3.1\Bicicletas.exe
+C:\Users\DELL09\source\repos\Bicicletas\Bicicletas\bin\Debug\netcoreapp3.1\Bicicletas.deps.json
+C:\Users\DELL09\source\repos\Bicicletas\Bicicletas\bin\Debug\netcoreapp3.1\Bicicletas.runtimeconfig.json
+C:\Users\DELL09\source\repos\Bicicletas\Bicicletas\bin\Debug\netcoreapp3.1\Bicicletas.runtimeconfig.dev.json
+C:\Users\DELL09\source\repos\Bicicletas\Bicicletas\bin\Debug\netcoreapp3.1\Bicicletas.dll
+C:\Users\DELL09\source\repos\Bicicletas\Bicicletas\bin\Debug\netcoreapp3.1\Bicicletas.pdb
+C:\Users\DELL09\source\repos\Bicicletas\Bicicletas\obj\Debug\netcoreapp3.1\Bicicletas.csprojAssemblyReference.cache
+C:\Users\DELL09\source\repos\Bicicletas\Bicicletas\obj\Debug\netcoreapp3.1\Bicicletas.AssemblyInfoInputs.cache
+C:\Users\DELL09\source\repos\Bicicletas\Bicicletas\obj\Debug\netcoreapp3.1\Bicicletas.AssemblyInfo.cs
+C:\Users\DELL09\source\repos\Bicicletas\Bicicletas\obj\Debug\netcoreapp3.1\Bicicletas.csproj.CoreCompileInputs.cache
+C:\Users\DELL09\source\repos\Bicicletas\Bicicletas\obj\Debug\netcoreapp3.1\Bicicletas.dll
+C:\Users\DELL09\source\repos\Bicicletas\Bicicletas\obj\Debug\netcoreapp3.1\Bicicletas.pdb
+C:\Users\DELL09\source\repos\Bicicletas\Bicicletas\obj\Debug\netcoreapp3.1\Bicicletas.genruntimeconfig.cache
